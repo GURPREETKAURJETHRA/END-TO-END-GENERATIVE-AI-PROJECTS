@@ -9,7 +9,7 @@
 ---
 
 ###  🌟🧑‍💻End to End Generative AI Industry Projects on LLM Models with Deployment 👩‍💻🌟
-
+** (Few Projects Under Implementation)
 ---
 
 | S.No |                         Project Name                         | Description                                                  |                        Official Repo                         |                          Tech Stack                          |
