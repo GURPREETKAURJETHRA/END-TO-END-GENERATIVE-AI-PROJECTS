@@ -94,7 +94,7 @@
 |      |           ***More Projects list is coming...!!!***           |                                                     |                                        |                                                       
 
 ---
-## ©️ LLM Projects License 🪪 
+## ©️ Awesome LLM Projects License 🪪 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
