@@ -1,4 +1,4 @@
-# END-TO-END-GENERATIVE-AI-PROJECTS
+# END TO END GENERATIVE AI PROJECTS 
 
 ## Awesome Projects Collection on LLM Models
 
@@ -94,13 +94,13 @@
 |      |           ***More Projects list is coming...!!!***           |                                                     |                                        |                                                       
 
 ---
-## ©️ License 🪪 
+## ©️ LLM Projects License 🪪 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-#### **If you found Generative AI Projects Implementation fruitful do drop ⭐ to this repo and if you Exciting Ideas, Contributions are welcome! 🌟🔦💁**
+#### **If you found Generative AI Projects Implementation fruitful do drop ⭐ to this repo and if you have Exciting Ideas, Contributions are welcome! 🌟🔦💁**
 #### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
 
 ---
