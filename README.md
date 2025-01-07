@@ -8,7 +8,7 @@
 
 ---
 
-###  🌟🧑‍💻End to End Generative AI Industry Projects on LLM Models with Deployment 👩‍💻🌟
+###  🌟🧑‍💻End to End Generative AI Industry Projects on LLM Models, RAG, AI Agents, AI Chatbot, MultiModals with Deployment 👩‍💻🌟
 ---
 
 | S.No |                         Project Name                         | Description                                                  |                        Official Repo                         |                          Tech Stack                          |
@@ -92,6 +92,7 @@
 |  77  |                  **AI Agents using Crew AI**                  | AI Agents Streamlit App using Crew AI                       | [![](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS/blob/main/images/git.jpg)](https://github.com/GURPREETKAURJETHRA/AI-Agents-Streamlit-App-using-Crew-AI) |                        **AI Agents, Streamlit App, GenerativeAI, Crew AI**                         |
 |  78  |                  **Multi GPU Fine Training LLMs**                  | Multi GPU Fine Training LLMs using DeepSpeed and Accelerate.                       | [![](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS/blob/main/images/git.jpg)](https://github.com/GURPREETKAURJETHRA/Multi-GPU-Fine-Training-LLMs) |                        **accelerate, gpu-computing, finetuning, deepspeed, large-language-models, generative-ai**                         |
 |  79  |                  **LLM based Finance Agent**                  | An intelligent agent utilizing Large Language Models (LLMs) for automated financial news retrieval and stock price prediction. | [![](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS/blob/main/images/git.jpg)](https://github.com/GURPREETKAURJETHRA/LLM-based-Finance-Agent) |   **Agent-based,finance-api,LLMs, generative-ai, gemini-pro**  |
+|  80  |                  **Multi-Agent AI App**                  | The Multi-Agents AI App from Scratch is a Python-based application leveraging OpenAI's GPT-4o model to perform specialized tasks through a collaborative Multi-Agent Architecture. Built with Streamlit for an intuitive web interface without any Agents frameworks/libraries, this system includes agents for Summarizing Medical Texts, Writing Research Articles, and Sanitizing Medical Data. | [![](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS/blob/main/images/git.jpg)](https://github.com/GURPREETKAURJETHRA/Multi-Agent-AI-App) |   **Agent-based, Multi-Agent Architecture, LLMs, GenerativeAI, Streamlit**  |
 |      |           ***More Projects list is coming...!!!***           |                                                     |                                        |                                                       
 
 ---
